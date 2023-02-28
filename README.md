@@ -1,1 +1,1 @@
-# gym-management
+# Gym Management System (Android application - Kotlin)
